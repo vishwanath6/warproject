@@ -30,7 +30,7 @@
 <artifactId>tomcat-maven-plugin</artifactId>
 <configuration>
 <url>http://localhost:8081/manager/text</url>
-<path>/webfinance</path>
+<path>/warproject</path>
 <server>myserver</server>
 </configuration>
 </plugin>
